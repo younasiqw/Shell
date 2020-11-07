@@ -1,5 +1,5 @@
 ## Auto Reinstall
-Thx :))  @hiCasper @MoeClub
+Thx :))    @hiCasper @MoeClub
 
 ## How To Using
 ```
